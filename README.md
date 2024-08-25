@@ -10,5 +10,8 @@ Skills Used
 - **DOM Manipulation:** Enhanced ability to manipulate the Document Object Model (DOM) using JavaScript, creating dynamic and interactive game elements.
 - **Event Handling:** Developed skills in handling user inputs and triggering specific functions based on game events.
 - **Problem-Solving:** Improved problem-solving abilities by tackling challenges related to game logic, such as matching patterns and maintaining score.
+output:
+![output games](https://github.com/user-attachments/assets/3ecc6dda-398e-4feb-b038-31ba62af16d3)
+
 
 
